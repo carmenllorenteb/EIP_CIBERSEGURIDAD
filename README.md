@@ -1,4 +1,4 @@
-# EIP_CIBERSEGURIDAD
+# Escuela Internacional Posgrados - Especialización en ciberseguridad
 
 MÓDULO 1-ESPECIALISTA EN CIBERSEGURIDAD Y HACKING ÉTICO PARA LA GESTIÓN DE RIESGOS | 410 Horas
 
